@@ -12,3 +12,4 @@ The description and requirements of **hw3-css-grid** are:
 My solution of **hw3-css-grid** has been deployed using GitHub Pages and can be found [here](https://georgiosioannoucoder.github.io/hw3-css-grid/).
 
 ## Demo
+https://github.com/GeorgiosIoannouCoder/hw3-css-grid/assets/110848236/7574ff31-9c88-427b-97a2-493f2ed25d59
